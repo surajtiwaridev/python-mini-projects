@@ -33,18 +33,28 @@ A console-based Rock–Paper–Scissors game where the user plays against the co
 - Loops  
 - User interaction  
 
+
+3. Registration system 
+
+A simple Python console program that allows a set number of users to register by entering their name and phone number. All entries are stored and displayed in a formatted guest list at the end.
+
+
+Features
+
+Set maximum number of registrations
+
+Collect name and phone number
+
+Automatically updates remaining seats
+
+Shows a formatted guest list.
+
+
 ---
 
 ## 📌 Purpose of This Repository
 - To practice Python through small, focused projects  
-- To track my learning journey  
-- To build consistency and coding habits  
-- To slowly expand into more projects over time  
 
----
-
-## 🛠️ Running the Projects
-Clone the repository using:
 
 ```bash
 git clone https://github.com/<your-username>/python-mini-projects.git
